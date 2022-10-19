@@ -1,0 +1,9 @@
+<suite name="automation exercise"  >
+    <test name="automation exercise Tests">
+        <classes>
+            <class name="tests.SearchProductTest" > </class>
+            <class name="tests.AddToCartTest" > </class>
+            <class name="tests.ViewCartTest" > </class>
+        </classes>
+    </test>
+</suite>
